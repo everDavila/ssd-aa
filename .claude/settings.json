@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python -c ' *)",
-      "PowerShell(Get-Command python, python3, py -ErrorAction SilentlyContinue)"
-    ]
-  }
-}
