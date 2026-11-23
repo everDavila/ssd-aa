@@ -5,3 +5,6 @@ __pycache__/
 models/*.joblib
 .streamlit/secrets.toml
 *.egg-info/
+
+# Capturas para la bitácora (solo en la PC, no se suben)
+/bitacora-capturas/
